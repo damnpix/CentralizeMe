@@ -1,0 +1,13 @@
+C:\Users\kiruxa\Desktop\FILES\CentralizeMe\CentralizeMe\bin\Debug\CentralizeMe.exe.config
+C:\Users\kiruxa\Desktop\FILES\CentralizeMe\CentralizeMe\bin\Debug\CentralizeMe.exe
+C:\Users\kiruxa\Desktop\FILES\CentralizeMe\CentralizeMe\bin\Debug\CentralizeMe.pdb
+C:\Users\kiruxa\Desktop\FILES\CentralizeMe\CentralizeMe\obj\Debug\CentralizeMe.csproj.AssemblyReference.cache
+C:\Users\kiruxa\Desktop\FILES\CentralizeMe\CentralizeMe\obj\Debug\CentralizeMe.MainForm.resources
+C:\Users\kiruxa\Desktop\FILES\CentralizeMe\CentralizeMe\obj\Debug\CentralizeMe.Properties.Resources.resources
+C:\Users\kiruxa\Desktop\FILES\CentralizeMe\CentralizeMe\obj\Debug\CentralizeMe.csproj.GenerateResource.cache
+C:\Users\kiruxa\Desktop\FILES\CentralizeMe\CentralizeMe\obj\Debug\CentralizeMe.csproj.CoreCompileInputs.cache
+C:\Users\kiruxa\Desktop\FILES\CentralizeMe\CentralizeMe\obj\Debug\CentralizeMe.exe
+C:\Users\kiruxa\Desktop\FILES\CentralizeMe\CentralizeMe\obj\Debug\CentralizeMe.pdb
+C:\Users\kiruxa\Desktop\FILES\CentralizeMe\CentralizeMe\bin\Debug\WinAPI.dll
+C:\Users\kiruxa\Desktop\FILES\CentralizeMe\CentralizeMe\bin\Debug\WinAPI.pdb
+C:\Users\kiruxa\Desktop\FILES\CentralizeMe\CentralizeMe\obj\Debug\CentralizeMe.csproj.CopyComplete
