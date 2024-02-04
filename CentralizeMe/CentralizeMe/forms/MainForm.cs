@@ -1,4 +1,4 @@
-﻿// CODE MADE BY @SPLIFFJAPAN
+﻿// CODE MADE BY @damnpix
 using CentralizeMe.data;
 using System;
 using System.Drawing;
